@@ -1,0 +1,27 @@
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.logo{
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+
+.carousel-indicators li{
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background-color: #373a3c;
+}
+
+.carousel-indicators{
+    top:105%;
+}
+
+.sin-estilo li{
+   list-style: none;
+}
+.logo-letra{
+    font-family: 'Lobster', cursive;
+    font-size: 1.6em;
+}
